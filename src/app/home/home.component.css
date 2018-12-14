@@ -1,0 +1,40 @@
+#content{
+	text-align: center;
+	padding-top: 11%;
+	text-shadow:0px 4px 3px rgba(22, 148, 43, 0.1),
+				0px	8px 13px rgba(22,148,43,0.1),
+				0px 18px 23px rgba(22,148,43,0.1);
+}
+
+
+#homeDiv{
+	/* font-family: lato; */
+	padding-top: 175px;
+	background:url("../../assets/nature.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+    color: white;
+    height: 90.5%;
+}
+html{
+	height: 100%;
+}
+h1{
+	font-weight: 700;
+	font-size: 5em;
+	color: #ffffc0;
+}
+
+#homeBtn {
+	color: greenyellow;
+	background-color: transparent;
+	border: 1px solid green;
+	border-radius: 5px;
+	font-weight: 600;
+}
+
+#homeBtn:hover {
+	background-color: rgba(255, 255, 255, 0.356);
+	color: #000;
+}
