@@ -19,7 +19,7 @@ import { ScssSampleComponent } from './projects/scss-proj/scss-sample/scss-sampl
     NavbarComponent,
     routingComponents,
     ScssProjComponent,
-    ScssSampleComponent
+    ScssSampleComponent,
   ],
   imports: [
     BrowserModule,

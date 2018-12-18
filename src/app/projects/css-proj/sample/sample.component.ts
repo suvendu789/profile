@@ -7,9 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SampleComponent implements OnInit {
 
+  kids = document.getElementById("body").children;
+
   constructor() { }
 
   ngOnInit() {
   }
 
+  
 }
