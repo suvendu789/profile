@@ -1,0 +1,303 @@
+
+.body1 a{
+    text-decoration: none;
+    color: #836c92;
+}
+
+.body1{
+    font: 100% "Lucida Sans", Verdana;
+    padding: 15px;
+}
+
+.body1 div{
+    display: block;
+}
+
+.body1 #welcome {
+    background-color: #4CAF50;
+    color: #ffffff;
+    padding: 10px 15px;
+    margin: 0;
+    border-radius: 4px;
+}
+
+.body1 .wrapper{
+    position: relative;
+    overflow: auto;
+}
+.body1 #menubar{
+    width: 200px;
+    float: left;
+}
+
+.body1 .menuitem{
+    background-color: #f1f1f1;
+    border: 1px solid #d4d4d4;
+    list-style-type: none;
+    padding: 2px;
+    cursor: pointer;
+    margin: 4px;
+    padding: 5px;
+    border-radius: 4px;
+}
+.body1 .menuitem:hover {
+    background-color: #fff;
+}
+
+.body1 .menuitem:first-child {
+    background-color: #4CAF50;
+    font-weight: bold;
+    color: white;
+}
+
+
+.body1 #main {
+    padding: 15px;
+    margin: 0 210px;
+    width: auto;
+}
+
+.body1 #sidebar{
+    background-color: #32a4e7;
+    padding: 15px;
+    border-radius: 4px;
+    color: white;
+    width: auto;
+}
+.body1 #bottom{
+    background-color: #f1f1f1;
+    border: 1px solid #d4d4d4;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 10px;
+    text-justify: auto;
+}
+
+
+/* Second Stylesheet */
+
+.body2 a{
+    text-decoration: none;
+    color: white;
+}
+.body2 div{
+    display: block;
+}
+.body2{
+    background-color: #d14836;
+    font-family: Arial;
+    line-height: 20px;
+    position: relative;
+    overflow: auto;
+    font-family: Verdana;
+}
+
+.body2 #welcome {
+    color: white;
+    padding: 15px;
+    font-size: 30px;
+    line-height: 26px;
+}
+.body2 #wrapper{
+    position: relative;
+    overflow: auto;
+    background-color: white;
+    padding: 20px;
+}
+
+.body2 #menubar{
+    width: 200px;
+    float: right;
+}
+
+.body2 .menuitem{
+    background-color: #d14836;
+    list-style-type: none;
+    padding: 7px 20px;
+    border: 2px solid #d14836;
+    text-align: center;
+    margin: 7px 0;
+    border-radius: 15px;
+    cursor: pointer;
+    font: 16px verdana;
+    color: white;
+}
+
+.body2 .menuitem:hover {
+    background-color: white;
+    color: #d14836;
+}
+
+.body2 .menuitem:nth-child(2){
+    background-color: white;
+    color: #d14836;
+    font-weight: bold;
+}
+
+.body2 #main h1, .body2 #main a ,.body2 #main h3{
+    color: #d14836;
+}
+
+.body2 #sidebar {
+    background-color: #F6DAD7;
+    color: #d14836;
+    padding: 20px;
+}
+
+.body2 #bottom {
+    padding: 20px;
+    color: white;
+    justify-items: auto;
+    font-size: 90%;
+    font-family: Arial;
+    line-height: 20px;
+}
+
+/* Third StyleSheet */
+.body3 a{
+    text-decoration: none;
+    color: white;
+}
+.body3 div{
+    display: block;
+}
+.body3 #wrapper{
+    position: relative;
+    overflow: auto;
+}
+
+.body3 {
+    padding: 0 15px;
+    line-height: 26px;
+    position: relative;
+    overflow: auto;
+    font-family: Verdana;
+    display: block;
+}
+
+.body3 h1,.body3  h2,.body3  h3,.body3 #main a {
+    color: #4CAF50;
+}
+
+.body3 #wrapper{
+    position: relative;
+    overflow: auto;
+    background-color: white;
+}
+
+.body3 #menulist {
+    text-align: center;
+    color: white;
+}
+
+.body3 .menuitem{
+    background-color: #555555;
+    list-style-type: none;
+    padding: 7px 15px;
+    display: inline;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    margin: 4px;
+    font: 16px;
+}
+
+.body3 .menuitem:nth-child(3){
+    background-color: #4CAF50;
+}
+
+.body3 .menuitem:hover {
+    background-color: #999999;
+}
+
+
+.body3 #sidebar {
+    background-color: #f1f1f1;
+    padding: 10px;
+    border: 1px solid #d4d4dd;
+}
+
+.body3 #bottom {
+    text-align: center;
+    color: black;
+    font-size: 90%;
+    line-height: 20px;
+} 
+/* Fourth Stylesheet */
+.body4 a{
+    text-decoration: none;
+    color: white;
+}
+.body4 div{
+    display: block;
+}
+.body4 #wrapper{
+    position: relative;
+    overflow: auto;
+}
+
+.body4 {
+    font-family: 'Courier New';
+    // margin: 20px;
+    line-height: 26px;
+    background-color: black;
+    display: block;
+}
+
+.body4 #welcome {
+    color: #84c754;
+    padding: 15px;
+}
+
+.body4 #wrapper {
+    position: relative;
+    overflow: auto;
+}
+
+.body4 #menulist {
+    display: block;
+    list-style-type: disc;
+}
+
+.body4 .menuitem:nth-child(4) {
+    color: white;
+}
+
+.body4 .menuitem{
+    color: #84c754;
+    cursor: pointer;
+}
+
+.body4 .menuitem:hover {
+    color: white;
+}
+
+.body4 #main {
+    padding: 10px;
+    color: #84c754;
+}
+
+.body4 #bottom {
+    color: white;
+}
+
+.body4 #sidebar {
+    color: #ffffff;
+    border: 1px solid white;
+    padding: 10px;
+    width: 500px;
+    position: absolute;
+    top: 175px;
+    right: 10vh;
+    border-radius: 5px;
+    line-height: 20px;
+}
+
+.body4 #bottom {
+    border: 1px solid white;
+    border-radius: 4px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    line-height: 14px;
+}
