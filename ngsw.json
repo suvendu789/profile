@@ -9,7 +9,7 @@
       "urls": [
         "https://suvendu789.github.io/profile/favicon.ico",
         "https://suvendu789.github.io/profile/index.html",
-        "https://suvendu789.github.io/profile/main.f912b139bb3e588e4984.js",
+        "https://suvendu789.github.io/profile/main.ea3d72f8e216d691048e.js",
         "https://suvendu789.github.io/profile/polyfills.20ab2d163684112c2aba.js",
         "https://suvendu789.github.io/profile/runtime.ec2944dd8b20ec099bf3.js",
         "https://suvendu789.github.io/profile/styles.de397cc9dd31eb0e53a5.css"
@@ -22,6 +22,7 @@
       "updateMode": "prefetch",
       "urls": [
         "https://suvendu789.github.io/profile/assets/CSS.3.svg.png",
+        "https://suvendu789.github.io/profile/assets/background.jpg",
         "https://suvendu789.github.io/profile/assets/css.png",
         "https://suvendu789.github.io/profile/assets/icons/icon-128x128.png",
         "https://suvendu789.github.io/profile/assets/icons/icon-144x144.png",
@@ -31,8 +32,15 @@
         "https://suvendu789.github.io/profile/assets/icons/icon-512x512.png",
         "https://suvendu789.github.io/profile/assets/icons/icon-72x72.png",
         "https://suvendu789.github.io/profile/assets/icons/icon-96x96.png",
+        "https://suvendu789.github.io/profile/assets/image1.jpg",
+        "https://suvendu789.github.io/profile/assets/image2.jpg",
+        "https://suvendu789.github.io/profile/assets/image3.jpg",
+        "https://suvendu789.github.io/profile/assets/logo-b6e1ef6e.svg",
+        "https://suvendu789.github.io/profile/assets/mac.png",
         "https://suvendu789.github.io/profile/assets/nature.jpg",
-        "https://suvendu789.github.io/profile/assets/python.png"
+        "https://suvendu789.github.io/profile/assets/pp.jpg",
+        "https://suvendu789.github.io/profile/assets/python.png",
+        "https://suvendu789.github.io/profile/assets/wevDevWallpaper.jpg"
       ],
       "patterns": []
     }
@@ -40,6 +48,7 @@
   "dataGroups": [],
   "hashTable": {
     "https://suvendu789.github.io/profile/assets/CSS.3.svg.png": "fa3943dcb75782334fbe7ef4ef1df0dbcac72679",
+    "https://suvendu789.github.io/profile/assets/background.jpg": "648ee1e291a3527f1b76d2b4c916d979c4f9f308",
     "https://suvendu789.github.io/profile/assets/css.png": "b638fb440fd854a7bd3a4a0ce192e473e9fdb842",
     "https://suvendu789.github.io/profile/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://suvendu789.github.io/profile/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -49,11 +58,18 @@
     "https://suvendu789.github.io/profile/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "https://suvendu789.github.io/profile/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://suvendu789.github.io/profile/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://suvendu789.github.io/profile/assets/image1.jpg": "15a9214bd5040e89581b4c57ac55121ce53033a4",
+    "https://suvendu789.github.io/profile/assets/image2.jpg": "c140938d7a1667e177c15caaa50f2dba4296e0e8",
+    "https://suvendu789.github.io/profile/assets/image3.jpg": "842d59adf3d15aeb45c76cf697f963822cf11152",
+    "https://suvendu789.github.io/profile/assets/logo-b6e1ef6e.svg": "b6e1ef6ef3d8c2f02b4f609495d9d429a7b1ae04",
+    "https://suvendu789.github.io/profile/assets/mac.png": "b98844d6f4caeab088c96ce899b52766e6f34dff",
     "https://suvendu789.github.io/profile/assets/nature.jpg": "d0133e64f7b9a0c4488e4779e31a1848934031a2",
+    "https://suvendu789.github.io/profile/assets/pp.jpg": "e858a971588ef802885cda17a68404f66273211b",
     "https://suvendu789.github.io/profile/assets/python.png": "9e0a0e7dbc3d5f05c71812e0a38aebefe525506c",
+    "https://suvendu789.github.io/profile/assets/wevDevWallpaper.jpg": "0a5849450cd967815a944ffb3943f05e50ff90e0",
     "https://suvendu789.github.io/profile/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://suvendu789.github.io/profile/index.html": "21ffacb88cb08d12cbe7219dd0dd7626c862c1d4",
-    "https://suvendu789.github.io/profile/main.f912b139bb3e588e4984.js": "bdf84baa859362bbd359fa58552108a7414fb1bb",
+    "https://suvendu789.github.io/profile/index.html": "a7c76c5c316cfccdba07ee425d732e61d217af5c",
+    "https://suvendu789.github.io/profile/main.ea3d72f8e216d691048e.js": "e28c57b6e6d6a320ad68a2593f7bb79bbfe8f95f",
     "https://suvendu789.github.io/profile/polyfills.20ab2d163684112c2aba.js": "f5c688c6cdf730d54759e30839fbd417dbe38e31",
     "https://suvendu789.github.io/profile/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://suvendu789.github.io/profile/styles.de397cc9dd31eb0e53a5.css": "9101864a38ca5c8241ec9f0592f2da0679581864"
