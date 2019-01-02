@@ -20,8 +20,8 @@ const routes: Routes = [
     // ]
   },
   {path: 'projects/css_project/sample', component: SampleComponent},
-  {path: 'projects/scss_project', component: ScssProjComponent},
-  {path: 'projects/scss_project/sample', component: ScssSampleComponent},
+  {path: 'projects/sass_project', component: ScssProjComponent},
+  {path: 'projects/sass_project/sample', component: ScssSampleComponent},
   {path: 'aboutme', component: AboutMeComponent},
   {path: '**', component: PageNotFoundComponent}
 ];

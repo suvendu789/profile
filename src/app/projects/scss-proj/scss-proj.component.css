@@ -1,0 +1,14 @@
+.sass-header-image {
+  background-image: url('/assets/logo-b6e1ef6e.svg');
+  background-size: cover;
+}
+
+#sassCard img {
+  height: 175px;
+  width: 200px;
+  margin-left: 3em;
+}
+
+.row {
+  margin-top: 20px;
+}

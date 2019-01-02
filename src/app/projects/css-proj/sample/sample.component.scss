@@ -2,6 +2,7 @@
 .body1 a{
     text-decoration: none;
     color: #836c92;
+    cursor: pointer;
 }
 
 .body1{
@@ -79,6 +80,7 @@
 .body2 a{
     text-decoration: none;
     color: white;
+    cursor: pointer;
 }
 .body2 div{
     display: block;
@@ -157,6 +159,7 @@
 .body3 a{
     text-decoration: none;
     color: white;
+    cursor: pointer;
 }
 .body3 div{
     display: block;
@@ -227,6 +230,7 @@
 .body4 a{
     text-decoration: none;
     color: white;
+    cursor: pointer;
 }
 .body4 div{
     display: block;
@@ -300,4 +304,61 @@
     text-align: center;
     padding: 10px;
     line-height: 14px;
+}
+
+
+// New CSS
+
+@media (max-width: 768px){
+	.body1 #main{
+		width: 65%;
+	}
+	.body1 .menuitem {
+		width: 100%;
+		float: right;
+	}
+	.body2 #welcome {
+		font-size: 21px;
+	}
+	
+	.body3 .menuitem {
+		font-size: 13px;
+	}
+	.body3 .menuitem:first-child{
+    	margin-left: 0;
+	}
+	.body4 #sidebar {
+		top: 38vh
+	}
+	
+}
+
+@media (max-width: 567px){
+	.body1 #main {
+		position: relative;
+	}
+	.body1 .menuitem {
+		padding: 10px;
+		margin: 7px 0;
+		font-size: 17px
+	}
+	.body2 #welcome {
+		font-size: 17px;
+	}
+	.body3 .menuitem {
+		font-size: 11px;
+		font-weight: bold;
+		margin: 0 4px 4px;
+		padding: 4px 7px 4px 4px;
+		float: left;
+	}
+	.body3 .menuitem:first-child{
+    	margin-left: -17px;
+	}
+	.body4 #sidebar {
+		position:relative;
+		top: 0;
+		right: 0;
+		width: auto;
+	}
 }
